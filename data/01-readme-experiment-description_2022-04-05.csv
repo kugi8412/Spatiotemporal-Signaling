@@ -1,29 +1,3 @@
-﻿Site,Cell_Line,Mutation,Biosensors,Conditions,Acquisition_frequency_min,Duration_h
-1,MCF10A,WT,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-2,MCF10A,WT,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-3,MCF10A,WT,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-4,MCF10A,WT,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-5,MCF10A,AKT1_E17K,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-6,MCF10A,AKT1_E17K,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-7,MCF10A,AKT1_E17K,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-8,MCF10A,AKT1_E17K,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-9,MCF10A,PIK3CA_E545K,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-10,MCF10A,PIK3CA_E545K,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-11,MCF10A,PIK3CA_E545K,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-12,MCF10A,PIK3CA_E545K,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-13,MCF10A,PIK3CA_H1047R,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-14,MCF10A,PIK3CA_H1047R,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-15,MCF10A,PIK3CA_H1047R,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-16,MCF10A,PIK3CA_H1047R,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-17,MCF10A,PTEN_del,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-18,MCF10A,PTEN_del,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-19,MCF10A,PTEN_del,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-20,MCF10A,PTEN_del,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-21,MCF10A,PTEN_del,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-22,MCF10A,PTEN_del,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-23,MCF10A,PTEN_del,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-24,MCF10A,PTEN_del,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-25,MCF10A,ErbB2,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-26,MCF10A,ErbB2,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-27,MCF10A,ErbB2,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
-28,MCF10A,ErbB2,H2B-miRFP703_ErkKTR-mTurq.2_FoxO-mNeonGreen,GF_deprived_48h_before_aquisition_FN_(0.25ug/cm2)_coated(air-dried)_96w_plate_25k_per_well_seeded,5,24
+version https://git-lfs.github.com/spec/v1
+oid sha256:414dda56b3e188869f80b74b495b26628d511d5d0c93500d5a7e6867c2031bae
+size 4756
